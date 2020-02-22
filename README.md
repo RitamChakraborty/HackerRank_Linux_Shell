@@ -28,3 +28,4 @@
 - ['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem)
 - [Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem)
 - [Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem)
+- [Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem)
