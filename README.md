@@ -24,3 +24,4 @@
 - [Tail of the Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem)
 - [Tail of the Text File #2](https://www.hackerrank.com/challenges/text-processing-tail-2/problem)
 - ['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem)
+- ['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-tr-2/problem)
