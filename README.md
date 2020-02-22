@@ -16,3 +16,4 @@
 - [Cut #5](https://www.hackerrank.com/challenges/text-processing-cut-5/problem)
 - [Cut #6](https://www.hackerrank.com/challenges/text-processing-cut-6/problem)
 - [Cut #7](https://www.hackerrank.com/challenges/text-processing-cut-7/problem)
+- [Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem)
