@@ -21,3 +21,4 @@
 - [Head of the Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem)
 - [Head of the Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem)
 - [Middle of the Text File](https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/problem?)
+- [Tail of the Text File #1](https://www.hackerrank.com/challenges/text-processing-tail-1/problem)
