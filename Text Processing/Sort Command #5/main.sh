@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # https://www.hackerrank.com/challenges/text-processing-sort-5/problem
 
-sort -k 2n
+sort -t$'\t' -k 2 -r -n
