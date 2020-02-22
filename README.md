@@ -19,3 +19,4 @@
 - [Cut #8](https://www.hackerrank.com/challenges/text-processing-cut-8/problem)
 - [Cut #9](https://www.hackerrank.com/challenges/text-processing-cut-9/problem)
 - [Head of the Text File #1](https://www.hackerrank.com/challenges/text-processing-head-1/problem)
+- [Head of the Text File #2](https://www.hackerrank.com/challenges/text-processing-head-2/problem)
