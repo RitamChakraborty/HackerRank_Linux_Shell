@@ -30,3 +30,5 @@
 - [Sort Command #2](https://www.hackerrank.com/challenges/text-processing-sort-2/problem)
 - [Sort Command #3](https://www.hackerrank.com/challenges/text-processing-sort-3/problem)
 - [Sort Command #4](https://www.hackerrank.com/challenges/text-processing-sort-4/problem)
+- [Sort Command #5](https://www.hackerrank.com/challenges/text-processing-sort-5/problem)
+- [Sort Command #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem)
