@@ -7,3 +7,7 @@
 - [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem)
 - [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem)
 - [Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem)
+
+## Text Processing
+- [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem)
+- [Cut #2](https://www.hackerrank.com/challenges/text-processing-cut-2/problem)
