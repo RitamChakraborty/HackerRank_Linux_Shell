@@ -26,3 +26,4 @@
 - ['Tr' Command #1](https://www.hackerrank.com/challenges/text-processing-tr-1/problem)
 - ['Tr' Command #2](https://www.hackerrank.com/challenges/text-processing-tr-2/problem)
 - ['Tr' Command #3](https://www.hackerrank.com/challenges/text-processing-tr-3/problem)
+- [Sort Command #1](https://www.hackerrank.com/challenges/text-processing-sort-1/problem)
