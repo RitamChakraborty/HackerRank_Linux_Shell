@@ -39,3 +39,4 @@
 - ['Uniq' Command #4](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/problem)
 - [Paste - 1](https://www.hackerrank.com/challenges/paste-1/problem)
 - [Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem)
+- [Paste - 3](https://www.hackerrank.com/challenges/paste-3/problem)
