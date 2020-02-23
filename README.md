@@ -34,3 +34,4 @@
 - [Sort Command #6](https://www.hackerrank.com/challenges/text-processing-sort-6/problem)
 - [Sort Command #7](https://www.hackerrank.com/challenges/text-processing-sort-7/problem)
 - ['Uniq' Command #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/problem)
+- ['Uniq' Command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/problem)
