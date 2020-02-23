@@ -40,3 +40,4 @@
 - [Paste - 1](https://www.hackerrank.com/challenges/paste-1/problem)
 - [Paste - 2](https://www.hackerrank.com/challenges/paste-2/problem)
 - [Paste - 3](https://www.hackerrank.com/challenges/paste-3/problem)
+- [Paste - 4](https://www.hackerrank.com/challenges/paste-4/problem)
