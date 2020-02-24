@@ -44,3 +44,4 @@
 
 ## Arrays in Bash
 - [Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem)
+- [Slice an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem)
