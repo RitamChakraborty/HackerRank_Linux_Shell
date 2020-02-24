@@ -45,3 +45,4 @@
 ## Arrays in Bash
 - [Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem)
 - [Slice an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem)
+- [Filter an Array with Patterns](https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem)
