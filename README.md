@@ -46,3 +46,4 @@
 - [Read in an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem)
 - [Slice an Array](https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/problem)
 - [Filter an Array with Patterns](https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/problem)
+- [Concatenate an array with itself](https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/problem)

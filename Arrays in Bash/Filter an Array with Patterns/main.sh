@@ -3,7 +3,6 @@
 
 arr=()
 index=0
-regex='*[aA]+*'
 
 while read input; do
     if [[ $input =~ ^[^aA]+$ ]]; then
