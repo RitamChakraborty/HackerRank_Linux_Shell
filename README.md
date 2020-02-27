@@ -50,3 +50,4 @@
 - [Display an element of an array](https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/problem)
 - [Count the elements in an Array](https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/problem)
 - [Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem)
+- [Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem)
