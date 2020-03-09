@@ -51,3 +51,6 @@
 - [Count the elements in an Array](https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/problem)
 - [Remove the First Capital Letter from Each Element](https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/problem)
 - [Lonely Integer - Bash!](https://www.hackerrank.com/challenges/lonely-integer-2/problem)
+
+## Grep Sed Awk
+- ['Grep' #1](https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/problem)
