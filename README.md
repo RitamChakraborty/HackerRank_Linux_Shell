@@ -64,3 +64,4 @@
 - ['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem)
 - ['Awk' - 1](https://www.hackerrank.com/challenges/awk-1/problem)
 - ['Awk' - 2](https://www.hackerrank.com/challenges/awk-2/problem)
+- ['Awk' - 3](https://www.hackerrank.com/challenges/awk-3/problem)
