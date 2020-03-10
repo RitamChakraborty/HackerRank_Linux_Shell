@@ -61,3 +61,4 @@
 - ['Sed' command #2](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/problem)
 - ['Sed' command #3](https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/problem)
 - ['Sed' command #4](https://www.hackerrank.com/challenges/sed-command-4/problem)
+- ['Sed' command #5](https://www.hackerrank.com/challenges/sed-command-5/problem)
