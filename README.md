@@ -7,6 +7,7 @@
 - [More on Conditionals](https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/problem)
 - [Arithmetic Operations](https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/problem)
 - [Compute the Average](https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/problem)
+- [Functions and Fractals - Recursive Trees - Bash!](https://www.hackerrank.com/challenges/fractal-trees-all/problem)
 
 ## Text Processing
 - [Cut #1](https://www.hackerrank.com/challenges/text-processing-cut-1/problem)
